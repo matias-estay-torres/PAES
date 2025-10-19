@@ -118,7 +118,7 @@ El programa está optimizado para procesar grandes volúmenes de datos:
 ```
 === INFORMACIÓN DEL GRUPO ===
 Programa: Procesador PAES con OpenMP
-Desarrollado por: Matías Estay
+Desarrollado por: Ignacio Molina y Matías Estay
 Fecha: 2025
 =============================
 ```
@@ -143,4 +143,5 @@ El programa reporta estadísticas al final:
 ## Licencia
 
 Este programa fue desarrollado como parte de un proyecto académico para el procesamiento de datos de la PAES.
+
 
